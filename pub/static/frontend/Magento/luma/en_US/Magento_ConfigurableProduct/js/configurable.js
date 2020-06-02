@@ -1,0 +1,1 @@
+/Applications/MAMP/htdocs/ELKO-Webstore/vendor/magento/module-configurable-product/view/frontend/web/js/configurable.js

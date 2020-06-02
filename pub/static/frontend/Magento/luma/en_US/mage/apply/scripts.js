@@ -1,0 +1,1 @@
+/Applications/MAMP/htdocs/ELKO-Webstore/lib/web/mage/apply/scripts.js

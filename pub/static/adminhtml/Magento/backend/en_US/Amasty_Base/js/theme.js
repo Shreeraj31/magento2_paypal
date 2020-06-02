@@ -1,0 +1,1 @@
+/Applications/MAMP/htdocs/ELKO-Webstore/app/code/Amasty/Base/view/adminhtml/web/js/theme.js

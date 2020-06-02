@@ -1,0 +1,1 @@
+/Applications/MAMP/htdocs/ELKO-Webstore/app/code/Tatvic/EnhancedEcommerce/view/frontend/web/js/enhanced_ecommerce.js

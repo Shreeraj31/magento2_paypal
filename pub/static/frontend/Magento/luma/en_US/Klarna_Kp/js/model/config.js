@@ -1,0 +1,1 @@
+/Applications/MAMP/htdocs/ELKO-Webstore/vendor/klarna/module-kp/view/frontend/web/js/model/config.js
